@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @devviniciosgomes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-devviniciosgomes/devviniciosgomes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👋 Olá, Meu nome é Vinicios Gomes
+
+- 🌱 I’m currently learning HTML5, CSS3, JAVASCRIPT, GIT, GITHUB, TERMINAL MAC
+- 📫 How to reach me @maykbrito
