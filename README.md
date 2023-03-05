@@ -1,5 +1,16 @@
+### Hi there, I'm Vinicios Gomes 👋
 
-### 👋 Olá, Meu nome é Vinicios Gomes
+#### About
+I'm a Web Developer. And, I'm studying web development at [Rockeatseat](https://www.rocketseat.com.br/)
 
-- 🌱 I’m currently learning HTML5, CSS3, JAVASCRIPT, JAVA, GIT, GITHUB, TERMINAL MAC
-- 📫 How to reach me @maykbrito
+#### Current Stack
+- 🎉 Frontend: `HTML5`, `CSS3`, `JavaScript`.
+- 🎨 Layout Desing: `Figma`
+- 📦️ Version code control: `Git & Github`
+- 🌎 Tools: `VsCode`, `Markdown`
+- I'm mostly active within the `Rockeatseat Community`
+
+#### Contacts
+
+- 📧 Email: dev.gomesvinicios@gmail.com
+
