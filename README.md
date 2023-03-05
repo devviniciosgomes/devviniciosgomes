@@ -1,4 +1,4 @@
-### Hi there, I'm Vinicios Gomes 👋
+### Hi there, I'm Vinícios Gomes 👋
 
 #### About
 I'm a Web Developer. And, I'm studying web development at [Rockeatseat](https://www.rocketseat.com.br/)
@@ -7,7 +7,7 @@ I'm a Web Developer. And, I'm studying web development at [Rockeatseat](https://
 - 🎉 Frontend: `HTML5`, `CSS3`, `JavaScript`
 - 🎨 Layout Desing: `Figma`
 - 📦️ Version code control: `Git & Github`
-- 🌎 Tools: `VsCode`, `Notion`, `Markdown`
+- 🌎 Tools: `VsCode`, `Markdown`
 - I'm mostly active within the `Rockeatseat Community`
 
 #### Contacts
