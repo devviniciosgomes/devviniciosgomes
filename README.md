@@ -4,7 +4,7 @@
 I'm a Web Developer. And, I'm studying web development at [Rockeatseat](https://www.rocketseat.com.br/)
 
 #### Current Stack
-- 🎉 Frontend: `HTML5`, `CSS3`, `JavaScript`
+- 🎉 Frontend: `HTML5`, `CSS3`, `JavaScript`, `Flutter`
 - 🎨 Layout Desing: `Figma`
 - 📦️ Version code control: `Git & Github`
 - 🌎 Tools: `VsCode`, `Markdown`
